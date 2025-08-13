@@ -1,0 +1,29 @@
+Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+SQLite database
+flashcards.db
+
+Virtual environments
+venv/
+env/
+*.env
+
+IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+OS files
+.DS_Store
+Thumbs.db
+
+Logs
+*.log
+
+Streamlit cache
+.streamlit/
