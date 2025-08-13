@@ -57,13 +57,13 @@ Usage
 
 Tech Stack
 
-Python 3.x
+1. Python 3.x
 
-Streamlit
+2. Streamlit
 
-SQLite (for storing flashcards)
+3. SQLite (for storing flashcards)
 
-Pandas (for data handling)
+4. Pandas (for data handling)
 
 ---
 
